@@ -1,0 +1,19 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+
+  border: 1px solid #646cff;
+  border-radius: 10px;
+}
+
+.btnGroup {
+  display: flex;
+  gap: 5px;
+}
+
+.btnActive {
+  background-color: #646cff;
+}
